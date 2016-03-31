@@ -1,1 +1,21 @@
-IDEE
+-------------------------------------------------------------------------
+Meine Idee
+-------------------------------------------------------------------------
+Ich habe einige verschiedene Ideen, die meisten davon könnten als nützliche Apps verwendet werden.
+Allerdings unterscheiden sie sich untereinander in Schwierigkeitsgrad der Herstellung.
+Ich habe mich für einer dieser Ideen entschieden:  
+
+
+"Was kochen?"
+-------------
+Das soll eine einfache App und ein Web-Service sein.
+Mithilfe dieses Services könnte man schnell ein Rezept finden, um festzustellen, was man heute selber kochen könnte.
+Man gibt einfach die Lebensmittel in die App(Web-Seite) ein, die man im Schrank/Kühlschrank findet.
+z.B. Hähnchen, Tomaten, Reis...
+Die Rezepte werden nach eingeschriebenen Tags gesucht. Das System sucht zwischen allen Rezepten die passenden Kochanleitungen,
+die gleiche oder ähnliche Zutaten enthalten.
+Darüber hinaus können Nutzer Rezepte und Lebensmittel mit Filtern versehen.
+
+Das Erfolg dieses Projectes hängt meistenteils von richtigen Content und userfreundlichen Design ab. 
+In Rahmen des Projects 1 möchte ich erstens die richtige Plattform dafür erstellen, die gut funktionireren soll. 
+-------------------------------------------------------------------------
