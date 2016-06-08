@@ -1,0 +1,30 @@
+﻿=== Projektidee samirverdi, 2016-04-20 ===
+
+Führerscheinprüfung Simulator
+---------------------------------------------
+* Das Konzept
+Der Simulator, ermöglicht einem Fahrschüller sich besser auf die Führerscheinprüfung vorzubereiten.
+Das Spiel wird als ein 3D-Simulator vorgestellt, wobei man das Auto mithilfe von Knöpfen und verschiedener Kombinationen, richtig oder falsch, führen kann.
+
+Es gibt 3 Modus:
+	5 bis 10 Varianten der Püfungsstrecke
+	Freie Fahrt durch die Stadtstraßen
+	Von Punkt A nach Punkt B fehlerfrei ankommen
+
+* Spieler-Netz
+Die Spieler können sich untereinander verbinden und sich beraten, wie man je nach Situation handeln müsste. Durch den Austausch weisen sie sich gegenseitig auf die Fehler zu und navigieren sich durch den Weg um sicherer zum Ziel zu kommen. Somit können einige Umfälle vermieden werden. 
+Nach dem Erreichen der 50 Punkte**, bekommt man die Gelegenheit anderen Spielern zu helfen.
+
+* Die Spiel-Beschreibung
+Das Spiel besteht aus mehreren Stufen und unterschiedlichen Straßen-Situationen. 
+Es gibt mehrere Kategorien, um einen bestimmten Teil der Führerscheinsprüfungsvorbereitung besser zu erlernen. Um auf die Führerscheinprufung am besten eingeleitet zu sein wird man jeweils auf die einzelne Prüfungsgebiete; Kategorie-weise vorbereitet. Es gibt daher mehrere Kategorien z.B. Situationen mit dem Fahrradfahrer oder Straßenbahn und Umleitungen.
+Man darf zu jedem Stufe noch mal wiederkehren, um die Straßenregel wiederholen zu können.
+Die Auswahl des Wagens steht frei zu wahl.
+Der Zeitmodus ist zwischen Tag und Nacht wählbar. 
+
+**In Abhängigkeit von guter Fahrweise erhält man bestimmte Anzahl der Punkte gutgeschrieben. 
+
+
+
+
+
