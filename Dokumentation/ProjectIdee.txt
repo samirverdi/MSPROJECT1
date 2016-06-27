@@ -35,7 +35,13 @@ Versuchen Sie, Ihr Projekt so zu überarbeiten, dass eine interaktive Anwendung 
 (gelöscht, da im Lernraum für alle einsehbar)
 
 ===================================
-=== Feedback Alpers, 2016-04-06 ===
+=== Feedback Alpers, 2016-05-06 ===
 ===================================
 
 Einzige Änderung seit letztem Feedback: strukt.html wurde gelöscht.
+
+===================================
+=== Feedback Alpers, 2016-06-27 ===
+===================================
+
+Leider erneut keine Änderungen seit dem letzten Feedback. Bitte beachten Sie, dass ich Projekte, an denen kontinuierlich nicht gearbeitet wird entsprechend des aktuellen Stands werten muss.

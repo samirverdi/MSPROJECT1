@@ -1,4 +1,4 @@
-﻿=== Projektidee samirverdi, 2016-04-20 ===
+﻿=== Projektidee samirverdi, 2016-06-08 ===
 
 Führerscheinprüfung Simulator
 ---------------------------------------------
@@ -24,7 +24,10 @@ Der Zeitmodus ist zwischen Tag und Nacht wählbar.
 
 **In Abhängigkeit von guter Fahrweise erhält man bestimmte Anzahl der Punkte gutgeschrieben. 
 
+===================================
+=== Feedback Alpers, 2016-06-27 ===
+===================================
 
+Fassen wir das Semester zusammen: Nachdem Sie eine DB-Anwendung entwickeln wollten haben Sie einen alternativen Vorschlag erhalten, um ein Projekt zu entwickeln. Diesen haben Sie nicht konzipiert (Beschreibung fehlte), sondern direkt mit der Programmierung begonnen. Dann haben Sie als einzige Änderung die Programmierung gelöscht und jetzt wollen Sie mit einer neuen Beschreibung von vorne beginnen.
 
-
-
+Sie haben jetzt zwei Möglichkeiten: Sie können am alten Projekt weiter arbeiten oder es als Fehlversuch werten lassen und es im nächsten Semester nochmal veruschen.
